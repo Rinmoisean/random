@@ -1,4 +1,4 @@
 <?php 
-$user = ['name'=> иван , 'surname' => романов , 'patronymic' => максимович ];
+$user = ['name'=> 'арина' , 'surname' => 'моисеева' , 'patronymic' => 'олеговна' ];
 echo $user['surname'].' '.$user['name'].' '.$user['patronymic'];
 ?>
