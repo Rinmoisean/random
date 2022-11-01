@@ -7,6 +7,7 @@ if ($day > 0 and $day <= 10) {
 elseif ($day > 10 and $day <= 20) {
     echo 'Вторая декада месяца';
 } 
-else 
+else {
     echo 'Третья декада месяца';
+}
 ?>
