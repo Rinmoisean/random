@@ -4,7 +4,19 @@ table {
 }
 td{
     border: 1px solid black;
+    text-align: center;
 }
 th{
     border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    background-color: green;
+}
+tbody>tr:nth-child(odd)
+{
+    background-color: #c9bdad;
+}
+tbody>tr:nth-child(even)
+{
+    background-color: #8c705e;
 }
