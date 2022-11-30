@@ -33,7 +33,6 @@ $contr=[
 	$result = [];
 	
 	foreach ( as ) {
-		
 	}
 	
 	var_dump($result);
