@@ -28,10 +28,11 @@ func();
 function delElem($arr, $num){
 	$arr=[];
 	foreach($arr as $elem){
-		if ($arr[] === $num)
-echo $arr[];
-		
+		if ($elem === $num) {
+		echo $elem;
+		}
 	}
+	return arr;
 }
 func();
 ?>
